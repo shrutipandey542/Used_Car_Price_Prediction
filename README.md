@@ -58,4 +58,3 @@ python train_model.py
 3. Run Flask app
 python app.py
 4. Open in browser
-http://127.0.0.1:5000/
